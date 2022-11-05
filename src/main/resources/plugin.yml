@@ -3,4 +3,4 @@ version: '${version}'
 main: quarri6343.setmoney.Setmoney
 api-version: 1.19
 description: vault api wrapper for server operator
-depend: [Vault]
+depend: [Vault, LiteEco]
